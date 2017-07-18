@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jordan Hudgens"]
   spec.email         = ["jordan@devcamp.com"]
 
-  spec.summary       = %q{"Various view specific methods for applicatons I use"}  spec.homepage      = "https://devcamp.com"
+  spec.summary       = %q{"Various view specific methods for applicatons I use."}  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
